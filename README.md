@@ -9,11 +9,11 @@ This is an example of R code where we need some improvements. The single script 
 | ------------- |:-------------:| :-----:|
 | Document function inputs/outputs/use      | [roxygen2](https://r-pkgs.org/man.html) | Hints |
 | Track code updates | git/GitHub      |    git/GitHub | 
-| Better debugging than print statements | icecream | icecream |
-| Run unit test | testthat | pyunit |
+| Better debugging than print statements | [icecream](https://www.r-bloggers.com/2022/07/ice-cream-for-r-programmers/) | icecream |
+| Run unit test | [testthat](https://testthat.r-lib.org/) | pyunit |
 | Run tests on an action, e.g. every push | GitHub Actions | GitHub Actions | 
-| Measure code being tested for bugs | covr | pytest |
-| Confirm code consistency     | lintr     |   pylint |
+| Measure code being tested for bugs | [covr](https://cran.r-project.org/web/packages/covr/vignettes/how_it_works.html) | pytest |
+| Confirm code consistency     | [lintr](https://lintr.r-lib.org/)     |   pylint |
 
 I won't use each package in the solution, but they're all at your disposal and worth bringing into your big projects with multiple users or even when the users are just you with sleep and you without.
 
