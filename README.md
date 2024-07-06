@@ -15,6 +15,6 @@ This is an example of R code where we need some improvements. The single script 
 | Measure code being tested for bugs | [covr](https://cran.r-project.org/web/packages/covr/vignettes/how_it_works.html) | pytest |
 | Confirm code consistency     | [lintr](https://lintr.r-lib.org/)     |   pylint |
 
-I won't use each package in the solution, but they're all at your disposal and worth bringing into your big projects with multiple users or even when the users are just you with sleep and you without.
+I won't use each tool in the solution, but they're all at your disposal and worth bringing into your big projects with multiple users or even when the users are just you sleep and without sleep.
 
 If you want to really dig into better code design I recommend [this course](https://coe-332-sp22.readthedocs.io/en/main/index.html). The Texas Advanced Computing Center offers tutorials of different chapters to users, but they'll cover a lot in a few hours. I recommend you work the course at the pace you can learn and apply the concepts to your research and take their tutorials when offered to ask questions.
