@@ -1,3 +1,6 @@
+# lintr config file
+.lintr
+
 # History files
 .Rhistory
 .Rapp.history
