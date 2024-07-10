@@ -7,7 +7,7 @@ This is an example of R code where we need some improvements. The single script 
 **Table 1** Packages in R and Python to consider using to improve your code.
 | Tool Use       | R           | Python  |
 | ------------- |:-------------:| :-----:|
-| Document function inputs/outputs/use      | [roxygen2](https://r-pkgs.org/man.html) | Hints |
+| Document function inputs/outputs/use      | [roxygen2](https://r-pkgs.org/man.html) | Type hints/annotations |
 | Track code updates | git/GitHub      |    git/GitHub | 
 | Better debugging than print statements | [icecream](https://www.r-bloggers.com/2022/07/ice-cream-for-r-programmers/) | icecream |
 | Run unit test | [testthat](https://testthat.r-lib.org/) | pyunit |
